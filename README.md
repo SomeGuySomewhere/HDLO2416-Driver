@@ -1,4 +1,4 @@
-# HDLO2416-Driver
+# HDLO2416-Driver-for-Arduino
 A simple Arduino based driver for HDLO 2416 displays
 
 Though not very sophisticated yet, its a decent beginning to using an old HDLO-2416 Display with an Arduino.
